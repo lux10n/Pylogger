@@ -10,5 +10,5 @@ Thanks to @mrVaro for the idea and the code
 3. saves the keystrokes in keylog.txt
 
 ## What to do ?
-- add a server to remotely record keystrokes (done, see [here]([https://github.com/mrVaro](https://github.com/mrVaro/keylogger-server)))
+- add a server to remotely record keystrokes (done, see [here](https://github.com/mrVaro/keylogger-server))
 - obfuscate code so that it avoids Windows Defender
